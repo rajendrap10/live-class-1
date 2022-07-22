@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@1,500&display=swap');
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.part {
+    display: flex;
+}
+
+.part_1 {
+    flex-direction: row;
+    flex: 1;
+}
+
+.part_2 {
+    flex: 2;
+}
+
+.part_3 {
+    flex: 3;
+}
